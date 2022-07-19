@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leymoo
-- 👀 I’m interested in user research and user analytics
+- 👀 I’m a product person
 - 📫 How to reach me - I'm on twitter (same handle) and linkedin (my name is on my twitter profile) 
 
 <!---
