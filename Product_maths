@@ -1,0 +1,14 @@
+Product Management courses or books currently do not cover the maths component required to succeed in the role. This can exclude people entering the role from non-typical backgrounds, and even people educated in maths may have picked non-statistics modules so may not have covered this. Or for many people, this was covered at school and taught badly for whatever reason. So this is my list of maths topics that will help you be data literate as a PM. 
+
+As long as you’re covering the good metric books, which cover picking the right metric in the first place, I’d recommend: 
+
+Normal distribution, variance, standard deviation, percentiles 
+Average, mean, median, mode, the differences and what they’re useful for
+Probability combinations eg if there is a 70% chance of a and a 30% chance of b, what would be both happening together or either one happening? 
+What a pie chart, bar chart, line chart are good at conveying and how to decide which one to use
+Trend lines , y=mx+c and r squared value - notably linear, polynomial, exponential/logarithmic trend lines and when you normally see them
+Sampling ie what is a statistically significant relevant sample of a dataset/population? - this one irritates me, as A/B testing only works above a certain amount of data points, and this is not well known. 
+
+Most of this is covered in mainstream schooling (it’s just it’s buried in a bunch of weird other stuff you no longer need and probably taught badly and patchily and crucially don’t cover how to do the above in Excel or R), so my tip is to get a modern high school or college book or search for these topics on YouTube to fill in the gaps. 
+
+Btw you’ll need more if you a) work with a data scientist regularly or b) on a product that uses ML. But I feel others have covered that area well already. 
